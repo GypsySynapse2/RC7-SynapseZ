@@ -90,3 +90,16 @@ C:\Users\Shadow\Desktop\rc7src\RC7_UI\obj\Release\RC7_UI.csproj.GenerateResource
 C:\Users\Shadow\Desktop\rc7src\RC7_UI\obj\Release\RC7_UI.csproj.CoreCompileInputs.cache
 C:\Users\Shadow\Desktop\rc7src\RC7_UI\obj\Release\RC7_UI.exe
 C:\Users\Shadow\Desktop\rc7src\RC7_UI\obj\Release\RC7_UI.pdb
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\RC7_UI.exe.config
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\RC7_UI.exe
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\RC7_UI.pdb
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\obj\Release\RC7_UI.csproj.Fody.CopyLocal.cache
+C:\Users\Shadow\Desktop\rc7src\RC7_UI\obj\Release\RC7_UI.csproj.Up2Date

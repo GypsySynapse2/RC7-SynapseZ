@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Shadow\\Desktop\\rc7src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|C:\\Users\\Shadow\\Desktop\\rc7src\\rc7_ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|C:\\Users\\Shadow\\Desktop\\rc7src\\rc7_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|solutionrelative:rc7_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|c:\\users\\shadow\\desktop\\rc7src\\rc7_ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|solutionrelative:rc7_ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -12,10 +16,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|C:\\Users\\Shadow\\Desktop\\rc7src\\rc7_ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|solutionrelative:rc7_ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|C:\\Users\\Shadow\\Desktop\\rc7src\\rc7_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|solutionrelative:rc7_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|C:\\Users\\Shadow\\Desktop\\rc7src\\rc7_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -38,15 +38,8 @@
       "RelativeMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|solutionrelative:rc7_ui\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|C:\\Users\\Shadow\\Desktop\\rc7src\\rc7_ui\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|solutionrelative:rc7_ui\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|C:\\Users\\Shadow\\Desktop\\rc7src\\rc7_ui\\output.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|solutionrelative:rc7_ui\\output.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BC98DCA-B0EB-413B-BD3C-490DA1122482}|RC7_UI\\RC7_UI.csproj|c:\\users\\shadow\\desktop\\rc7src\\rc7_ui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,23 +49,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RC7_UI",
-              "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\RC7_UI.csproj",
-              "RelativeDocumentMoniker": "RC7_UI\\RC7_UI.csproj",
-              "ToolTip": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\RC7_UI.csproj",
-              "RelativeToolTip": "RC7_UI\\RC7_UI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-06T20:45:12.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Login.cs",
               "RelativeDocumentMoniker": "RC7_UI\\Login.cs",
@@ -107,19 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Communication.cs",
-              "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Communication.cs",
-              "RelativeDocumentMoniker": "RC7_UI\\Communication.cs",
-              "ToolTip": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Communication.cs",
-              "RelativeToolTip": "RC7_UI\\Communication.cs",
-              "ViewState": "AQIAAOcAAAAAAAAAAAAYwPUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T21:34:52.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Login.cs",
               "RelativeDocumentMoniker": "RC7_UI\\Login.cs",
@@ -127,12 +96,11 @@
               "RelativeToolTip": "RC7_UI\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T14:21:55.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T14:21:55.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Output.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Output.Designer.cs",
               "RelativeDocumentMoniker": "RC7_UI\\Output.Designer.cs",
@@ -152,19 +120,32 @@
               "RelativeToolTip": "RC7_UI\\Form1.Designer.cs",
               "ViewState": "AgIAAFgCAAAAAAAAAAAYwGYCAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:18:10.066Z"
+              "WhenOpened": "2024-07-11T14:18:10.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Form1.cs",
               "RelativeDocumentMoniker": "RC7_UI\\Form1.cs",
               "ToolTip": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Form1.cs",
               "RelativeToolTip": "RC7_UI\\Form1.cs",
-              "ViewState": "AgIAAAgBAAAAAAAAAAArwA4BAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:17:59.591Z"
+              "WhenOpened": "2024-07-11T14:17:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RC7_UI",
+              "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\RC7_UI.csproj",
+              "RelativeDocumentMoniker": "RC7_UI\\RC7_UI.csproj",
+              "ToolTip": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\RC7_UI.csproj",
+              "RelativeToolTip": "RC7_UI\\RC7_UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T20:45:12.837Z"
             },
             {
               "$type": "Document",
@@ -183,10 +164,11 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Form1.cs",
               "RelativeDocumentMoniker": "RC7_UI\\Form1.cs",
-              "ToolTip": "C:\\Users\\Shadow\\Desktop\\rc7 - ui src (3)\\RC7_UI\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\rc7 - ui src (3)\\RC7_UI\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Shadow\\Desktop\\rc7src\\RC7_UI\\Form1.cs [Design]",
+              "RelativeToolTip": "RC7_UI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:16:57.646Z"
+              "WhenOpened": "2024-07-11T14:16:57.646Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

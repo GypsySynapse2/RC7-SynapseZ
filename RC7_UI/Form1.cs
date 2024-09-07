@@ -30,7 +30,6 @@ namespace RC7_UI
 
         string _comOUT = "RC7_SCRIPT";
 
-        Communication com = new Communication();
 
         Image side;
         Image back;
@@ -216,7 +215,7 @@ namespace RC7_UI
 
         private void loadThemeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OpenFileDialog file = new OpenFileDialog();       
+            OpenFileDialog file = new OpenFileDialog();
             string _LoadFile = "";
 
             file.InitialDirectory = _themeDir;
@@ -227,7 +226,7 @@ namespace RC7_UI
             {
                 _LoadFile = file.FileName;
             }
-            
+
             if (_LoadFile == "" || _LoadFile == null)
             {
                 MessageBox.Show("No file selected", "Unable to load theme", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -260,7 +259,7 @@ namespace RC7_UI
 
                 foreach (string f in files)
                 {
-                    File.Delete(f);                    
+                    File.Delete(f);
                 }
 
                 ZipFile.ExtractToDirectory(_LoadFile, _tempThemeDir);
@@ -301,21 +300,21 @@ namespace RC7_UI
 
         private void muteButton_Click(object sender, EventArgs e)
         {
-            com.execute("loadstring(game:HttpGet('https://raw.githubusercontent.com/QP-Community/Roblox-Exploit/main/Loader.lua'))()");
+            synapseZAPI.Execute(Directory.GetCurrentDirectory() /*<- MainPath*/, "print('nuh uh')");
         }
 
         private void roexploitButton_Click(object sender, EventArgs e)
         {
-            com.execute("loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()");
+            synapseZAPI.Execute(Directory.GetCurrentDirectory() /*<- MainPath*/, "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()");
         }
 
         private void downloadButton_Click(object sender, EventArgs e)
         {
-            com.execute("loadstring(game:HttpGet('https://raw.githubusercontent.com/Exunys/ESP-Script/main/ESP.lua'))()");
+            synapseZAPI.Execute(Directory.GetCurrentDirectory() /*<- MainPath*/, "print('nuh uh')");
         }
         private void WButton_Click(object sender, EventArgs e)
         {
-            com.execute("loadstring(game:HttpGet('https://raw.githubusercontent.com/GypsySynapse2/untitledaimbot/main/disassemblertext.txt'))()");
+            synapseZAPI.Execute(Directory.GetCurrentDirectory() /*<- MainPath*/, "print('nuh uh')");
         }
 
         async Task<string> getScript(WebView2 bs)
@@ -393,7 +392,8 @@ namespace RC7_UI
                 tabCount++;
                 Extensions.ScriptIDE ide = new Extensions.ScriptIDE(tabControl1.TabPages[tabControl1.SelectedIndex]);
                 ide.makeIDE();
-            } else
+            }
+            else
             {
 
             }
